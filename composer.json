@@ -1,0 +1,14 @@
+{
+    "name": "leonardolml/psr4autoloader",
+    "description": "PSR-4 Autoloader",
+    "authors": [
+        {
+            "name": "Leonardo Matos",
+            "email": "leonardolml@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Psr4\\": "src/"}
+    }
+}
